@@ -1,0 +1,143 @@
+{
+    "student":[
+
+{
+    "name":"Sifat",
+    "roll":2,
+    "className":"Ten",
+    "age":21
+
+
+},
+{
+    "name":"Nasrin khatun",
+    "roll":3,
+    "className":"Ten",
+    "age":21
+
+
+},
+{
+    "name":"Khairul",
+    "roll":5,
+    "className":"Ten",
+    "age":220
+
+
+},
+{
+    "name":"Sabbir",
+    "roll":6,
+    "className":"Ten",
+    "age":19
+
+
+},
+{
+    "name":"Sohel",
+    "roll":7,
+    "className":"Ten",
+    "age":16
+
+
+},
+{
+    "name":"Razzak",
+    "roll":8,
+    "className":"Ten",
+    "age":20
+
+
+},
+{
+    "name":"Suzon Ahmed",
+    "roll":9,
+    "className":"Ten",
+    "age":19
+
+
+},
+{
+    "name":"Reza",
+    "roll":10,
+    "className":"Ten",
+    "age":20
+
+
+}
+
+
+
+    ],
+
+
+
+
+
+
+
+"Teacher":[
+
+
+    {
+
+"id":1,
+"neme":"Ashraful Haque",
+"age":50,
+"location":"Dhaka"
+    },
+    {
+
+"id":2,
+"neme":"Abdul Khalek",
+"age":50,
+"location":"Chapainawabganj"
+    },
+    {
+
+"id":3,
+"neme":"Saniul Haque",
+"age":45,
+"location":"Sylhet"
+    },
+    {
+
+"id":4,
+"neme":"Tohidul Islam",
+"age":40,
+"location":"Chapainawabganj"
+    },
+    {
+
+"id":5,
+"neme":"Sohel Ahmed",
+"age":55,
+"location":"Chapainawabganj"
+    },
+    {
+
+"id":6,
+"neme":"Abdul Rahim",
+"age":45,
+"location":"Chapainawabganj"
+    },
+    {
+
+"id":9,
+"neme":"Mainuddin Ahmed",
+"age":45,
+"location":"Borishal"
+    },
+    {
+
+"id":10,
+"neme":"Mainuddin Ahmed",
+"age":45,
+"location":"Khulna"
+    }
+
+]
+
+
+
+}
